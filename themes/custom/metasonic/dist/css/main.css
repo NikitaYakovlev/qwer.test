@@ -548,15 +548,16 @@ footer {
   .region-content .messages--status {
     position: absolute; }
 
-#block-metasonic-menr a {
-  text-decoration: none;
+.link--menr-in-centre {
   position: absolute;
-  margin-top: -20em;
-  z-index: 20;
+  margin-top: -26.3em;
   margin-left: 46vw;
-  font-weight: 600;
-  font-size: 1.3em;
-  color: #fffd; }
+  z-index: 20; }
+  .link--menr-in-centre a {
+    text-decoration: none;
+    font-weight: 600;
+    font-size: 1.3em;
+    color: #fffd; }
 
 .block-views-blockthree-blocks-in-the-center-block-1 {
   position: relative;
@@ -603,29 +604,29 @@ footer {
     margin-left: 3vw;
     margin-bottom: 2vw; }
 
-#block-metasonic-uberuns {
+.block--uber-uns {
   margin-top: 2.5vw;
   width: 33vw;
   text-transform: uppercase;
   float: left;
   height: 21vw; }
-  #block-metasonic-uberuns h2 {
+  .block--uber-uns h2 {
     display: none; }
-  #block-metasonic-uberuns .field--name-field-center-title-new {
+  .block--uber-uns .field--name-field-center-title-new {
     font-size: 1.8vw;
     font-family: -apple-system, system-ui, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
     color: #545455;
     margin-bottom: 0.7vw; }
-  #block-metasonic-uberuns .field--name-field-centre-short-desription {
+  .block--uber-uns .field--name-field-centre-short-desription {
     margin-bottom: 1vw;
     color: #9a9a9a;
     font-size: 1.2vw; }
-  #block-metasonic-uberuns .field--name-field-centre-desription {
+  .block--uber-uns .field--name-field-centre-desription {
     text-transform: none;
     font-size: 1vw;
     padding-bottom: 2.2vw;
     color: #aaa; }
-  #block-metasonic-uberuns .field--name-field-center-link a {
+  .block--uber-uns .field--name-field-center-link a {
     font-size: 0.9vw;
     text-decoration: none;
     background-color: #fcac1e;
@@ -669,53 +670,53 @@ footer {
     margin-left: 6vw;
     margin-top: 0.5vw; }
 
-#block-metasonic-ournextwebinar {
+.block--next-webinar {
   margin-top: 2.5vw;
   width: 22vw;
   text-transform: uppercase;
   float: left; }
-  #block-metasonic-ournextwebinar h2 {
+  .block--next-webinar h2 {
     font-size: 1.8vw;
     font-family: -apple-system, system-ui, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
     color: #545455;
     margin-bottom: 0.7vw;
     font-weight: normal; }
-  #block-metasonic-ournextwebinar .field--name-field-date-webinar {
+  .block--next-webinar .field--name-field-date-webinar {
     float: left; }
-  #block-metasonic-ournextwebinar .field--name-field-webinar-description {
+  .block--next-webinar .field--name-field-webinar-description {
     margin-left: 4vw;
     text-transform: none;
     font-size: 1vw;
     padding-bottom: 2.2vw;
     color: #aaa; }
-  #block-metasonic-ournextwebinar .field--name-field-date-webinar {
+  .block--next-webinar .field--name-field-date-webinar {
     color: #545455;
     font-size: 1.4vw;
     margin-top: 0.4vw;
     font-weight: 600;
     line-height: 2vw; }
 
-#block-metasonic-quote {
+.block--metasonic-quote {
   margin-left: 24vw;
   margin-top: 2.5vw;
   width: 35vw;
   height: auto;
   background-color: #fff;
   display: table; }
-  #block-metasonic-quote .field--name-field-quotes {
+  .block--metasonic-quote .field--name-field-quotes {
     float: left;
     margin-left: 1vw;
     margin-top: 0.5vw; }
-    #block-metasonic-quote .field--name-field-quotes img {
+    .block--metasonic-quote .field--name-field-quotes img {
       width: 3vw; }
-  #block-metasonic-quote .field--name-field-text-quote {
+  .block--metasonic-quote .field--name-field-text-quote {
     margin-left: 6vw;
     padding-top: 2vw;
     padding-right: 1vw;
     text-transform: none;
     font-size: 1vw;
     color: #aaa; }
-  #block-metasonic-quote .field--name-field-about-autor-quote- {
+  .block--metasonic-quote .field--name-field-about-autor-quote- {
     margin-left: 6vw;
     padding-top: 0.8vw;
     padding-right: 1vw;
@@ -723,7 +724,7 @@ footer {
     font-size: 0.9vw;
     color: #545455;
     float: left; }
-  #block-metasonic-quote .field--name-field-quote-image {
+  .block--metasonic-quote .field--name-field-quote-image {
     float: right;
     width: 13vw;
     margin-right: 1vw;
@@ -762,7 +763,7 @@ header {
   margin-left: 20vw;
   display: flow-root; }
 
-#block-metasonic-logotip {
+.block--logo {
   line-height: 6vw;
   width: 10%;
   float: left;
@@ -865,21 +866,21 @@ header {
         color: #b2b2b2;
         text-decoration: none; }
 
-.menu--about-us-menu {
+.menu--about-us {
   column-span: all;
   line-height: 3.9vw;
   margin-top: 2px;
   margin-right: 1.5vw;
-  font-size: 0.8em;
   grid-column: 1 / 4; }
-  .menu--about-us-menu .menu {
+  .menu--about-us .menu {
     margin: 0; }
-    .menu--about-us-menu .menu .menu-item {
+    .menu--about-us .menu .menu-item {
+      font-size: 1.55em;
       display: inline;
-      padding: 0 1.5em .2em 1.5em;
+      padding: 0.36em 1.5em .2em 1.5em;
       list-style-image: none;
       background: transparent url(../assets/marker.jpg) no-repeat 0px 0px; }
-      .menu--about-us-menu .menu .menu-item a {
+      .menu--about-us .menu .menu-item a {
         font-size: 1em;
         text-decoration: none;
         text-transform: uppercase;

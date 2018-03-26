@@ -87,13 +87,13 @@ $col-gutter: $container-gutter;
   }
 }
 
-#block-metasonic-menr {
+.link--menr-in-centre {
+  position: absolute;
+  margin-top: -26.3em;
+  margin-left: 46vw;
+  z-index: 20;
   a {
     text-decoration: none;
-    position: absolute;
-    margin-top: -20em;
-    z-index: 20;
-    margin-left: 46vw;
     font-weight: 600;
     font-size: 1.3em;
     color: #fffd;
@@ -155,7 +155,7 @@ $col-gutter: $container-gutter;
   }
 }
 
-#block-metasonic-uberuns {
+.block--uber-uns {
   margin-top: 2.5vw;
   width: 33vw;
   text-transform: uppercase;
@@ -239,7 +239,7 @@ $col-gutter: $container-gutter;
   }
 }
 
-#block-metasonic-ournextwebinar {
+.block--next-webinar {
   margin-top: 2.5vw;
   width: 22vw;
   text-transform: uppercase;
@@ -270,7 +270,7 @@ $col-gutter: $container-gutter;
     line-height: 2vw;
   }
 }
-#block-metasonic-quote {
+.block--metasonic-quote {
   margin-left: 24vw;
   margin-top: 2.5vw;
   width: 35vw;
