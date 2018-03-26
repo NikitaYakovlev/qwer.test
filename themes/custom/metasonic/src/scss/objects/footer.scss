@@ -1,5 +1,6 @@
 .region-footer {
   margin: 0 auto;
+  padding-bottom: 30px;
   width: 60%;
   display: grid;
   grid-template-columns: 13vw 13vw 12vw 22vw;
@@ -20,7 +21,7 @@
   }
 }
 
-#block-metasonic-aboutusmenu {
+#menu--about-us-menu {
   column-span: all;
   line-height: 3.9vw;
   margin-top: 2px;

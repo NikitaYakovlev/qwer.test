@@ -32,30 +32,25 @@ $col-gutter: $container-gutter;
   padding-left: $col-gutter;
 }
 
-.block-views {
-  .views-slideshow-controls-bottom {
-    position: absolute;
-    margin-left: 20vw;
-    margin-top: -26em;
-    z-index: 10;
-    .views-slideshow-pager-bullets li {
-        text-indent: -9999px;
-        cursor: pointer;
-        display: inline-block;
-        border-radius: 0;
-        padding: 0 7px;
-        background: #fff7;
-        margin: 0.2em;
-        line-height: 14px;
-    }
-    .views-slideshow-pager-bullets li.active {
-        background: #fffd;
-    }
+.views-slideshow-controls-bottom {
+  position: absolute;
+  margin-left: 20vw;
+  margin-top: -26em;
+  z-index: 10;
+  .views-slideshow-pager-bullets li {
+    text-indent: -9999px;
+    cursor: pointer;
+    display: inline-block;
+    border-radius: 0;
+    padding: 0 7px;
+    background: #fff7;
+    margin: 0.2em;
+    line-height: 14px;
+  }
+  .views-slideshow-pager-bullets li.active {
+    background: #fffd;
   }
 }
-
-
-
 
 .views_slideshow_cycle_slide {
   .views-field-field-text {

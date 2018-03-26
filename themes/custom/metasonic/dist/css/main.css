@@ -505,12 +505,12 @@ footer {
   padding-right: 1000px;
   padding-left: 1000px; }
 
-.block-views .views-slideshow-controls-bottom {
+.views-slideshow-controls-bottom {
   position: absolute;
   margin-left: 20vw;
   margin-top: -26em;
   z-index: 10; }
-  .block-views .views-slideshow-controls-bottom .views-slideshow-pager-bullets li {
+  .views-slideshow-controls-bottom .views-slideshow-pager-bullets li {
     text-indent: -9999px;
     cursor: pointer;
     display: inline-block;
@@ -519,7 +519,7 @@ footer {
     background: #fff7;
     margin: 0.2em;
     line-height: 14px; }
-  .block-views .views-slideshow-controls-bottom .views-slideshow-pager-bullets li.active {
+  .views-slideshow-controls-bottom .views-slideshow-pager-bullets li.active {
     background: #fffd; }
 
 .views_slideshow_cycle_slide .views-field-field-text p {
@@ -850,6 +850,7 @@ header {
 
 .region-footer {
   margin: 0 auto;
+  padding-bottom: 30px;
   width: 60%;
   display: grid;
   grid-template-columns: 13vw 13vw 12vw 22vw; }
@@ -864,21 +865,21 @@ header {
         color: #b2b2b2;
         text-decoration: none; }
 
-#block-metasonic-aboutusmenu {
+.menu--about-us-menu {
   column-span: all;
   line-height: 3.9vw;
   margin-top: 2px;
   margin-right: 1.5vw;
   font-size: 0.8em;
   grid-column: 1 / 4; }
-  #block-metasonic-aboutusmenu .menu {
+  .menu--about-us-menu .menu {
     margin: 0; }
-    #block-metasonic-aboutusmenu .menu .menu-item {
+    .menu--about-us-menu .menu .menu-item {
       display: inline;
       padding: 0 1.5em .2em 1.5em;
       list-style-image: none;
       background: transparent url(../assets/marker.jpg) no-repeat 0px 0px; }
-      #block-metasonic-aboutusmenu .menu .menu-item a {
+      .menu--about-us-menu .menu .menu-item a {
         font-size: 1em;
         text-decoration: none;
         text-transform: uppercase;
