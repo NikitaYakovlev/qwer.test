@@ -48,3 +48,5 @@ sites/simpletest
 /themes/bootstrap
 /themes/first
 /themes/newtheme
+
+/themes/custom/metasonic/Gulpfile.js

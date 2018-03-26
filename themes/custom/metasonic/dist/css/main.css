@@ -1,5 +1,4 @@
 @import url(https://fonts.googleapis.com/css?family=Open+Sans:300,400,700&subset=cyrillic);
-@charset "UTF-8";
 /* Vendors */
 /*! normalize.css v7.0.0 | MIT License | github.com/necolas/normalize.css */
 /* Document
@@ -506,12 +505,12 @@ footer {
   padding-right: 1000px;
   padding-left: 1000px; }
 
-#block-metasonic-views-block-slider-front-page-block-1 .views-slideshow-controls-bottom {
+.block-views .views-slideshow-controls-bottom {
   position: absolute;
   margin-left: 20vw;
   margin-top: -26em;
   z-index: 10; }
-  #block-metasonic-views-block-slider-front-page-block-1 .views-slideshow-controls-bottom .views-slideshow-pager-bullets li {
+  .block-views .views-slideshow-controls-bottom .views-slideshow-pager-bullets li {
     text-indent: -9999px;
     cursor: pointer;
     display: inline-block;
@@ -520,10 +519,10 @@ footer {
     background: #fff7;
     margin: 0.2em;
     line-height: 14px; }
-  #block-metasonic-views-block-slider-front-page-block-1 .views-slideshow-controls-bottom .views-slideshow-pager-bullets li.active {
+  .block-views .views-slideshow-controls-bottom .views-slideshow-pager-bullets li.active {
     background: #fffd; }
 
-#views_slideshow_cycle_div_slider_front_page-block_1_2 .views-field-field-text p, #views_slideshow_cycle_div_slider_front_page-block_1_1 .views-field-field-text p, #views_slideshow_cycle_div_slider_front_page-block_1_0 .views-field-field-text p {
+.views_slideshow_cycle_slide .views-field-field-text p {
   margin-top: -560px;
   position: absolute;
   font-size: 3.5vw;
@@ -533,7 +532,7 @@ footer {
   font-family: 'BiminiNormal';
   line-height: 1.1; }
 
-#views_slideshow_cycle_div_slider_front_page-block_1_2 .views-field-field-text font, #views_slideshow_cycle_div_slider_front_page-block_1_1 .views-field-field-text font, #views_slideshow_cycle_div_slider_front_page-block_1_0 .views-field-field-text font {
+.views_slideshow_cycle_slide .views-field-field-text font {
   font-size: 0.93em;
   font-family: "Helvetica", sans-serif; }
 
@@ -559,36 +558,36 @@ footer {
   font-size: 1.3em;
   color: #fffd; }
 
-#block-metasonic-views-block-tri-bloka-block-1 {
+.block-views-blockthree-blocks-in-the-center-block-1 {
   position: relative;
   margin-top: -13em;
   text-transform: uppercase;
   z-index: 20;
   xt-transform: uppercase; }
-  #block-metasonic-views-block-tri-bloka-block-1 .views-col {
+  .block-views-blockthree-blocks-in-the-center-block-1 .views-col {
     width: 32.1%;
     margin-right: 1.23333%;
     background-color: #fff; }
-  #block-metasonic-views-block-tri-bloka-block-1 img {
+  .block-views-blockthree-blocks-in-the-center-block-1 img {
     float: left;
     margin-left: 3vw;
     margin-top: 3vw;
     width: 4.5vw; }
-  #block-metasonic-views-block-tri-bloka-block-1 .views-field-title {
+  .block-views-blockthree-blocks-in-the-center-block-1 .views-field-title {
     background-color: #99999b;
     height: 5.5vw; }
-    #block-metasonic-views-block-tri-bloka-block-1 .views-field-title a {
+    .block-views-blockthree-blocks-in-the-center-block-1 .views-field-title a {
       line-height: 5.5vw;
       padding-left: 2.5vw;
       color: white;
       font-size: 2.5vw;
       text-decoration: none; }
-  #block-metasonic-views-block-tri-bloka-block-1 .views-field-field-short-desription-block-ctr-1 {
+  .block-views-blockthree-blocks-in-the-center-block-1 .views-field-field-short-desription-block-ctr {
     margin-top: 3.5vw;
     margin-left: 8.5vw;
     font-size: 1.2vw;
     color: #717171; }
-  #block-metasonic-views-block-tri-bloka-block-1 .views-field-field-block-in-center-descript {
+  .block-views-blockthree-blocks-in-the-center-block-1 .views-field-field-block-in-center-descript {
     overflow: hidden;
     height: 5vw;
     width: 14.5vw;
@@ -596,7 +595,7 @@ footer {
     color: #b7b9bd;
     text-transform: none;
     font-size: 1.1vw; }
-  #block-metasonic-views-block-tri-bloka-block-1 .views-field-field-block-in-center-link a {
+  .block-views-blockthree-blocks-in-the-center-block-1 .views-field-field-block-in-center-link a {
     font-size: 0.9vw;
     color: #717171;
     text-decoration: none;
@@ -634,39 +633,39 @@ footer {
     border-radius: 8px;
     padding: 0.8vw 1.2vw 0.8vw 1.2vw; }
 
-#block-metasonic-views-block-news-view-block-1 {
+.block-views-blocknews-view-block-1 {
   margin-left: 34vw;
   margin-top: 2.5vw;
   width: 25vw;
   height: 21vw; }
-  #block-metasonic-views-block-news-view-block-1 .view-content {
+  .block-views-blocknews-view-block-1 .view-content {
     display: inline-grid; }
-    #block-metasonic-views-block-news-view-block-1 .view-content .views-row {
+    .block-views-blocknews-view-block-1 .view-content .views-row {
       margin-bottom: 1.8vw; }
-    #block-metasonic-views-block-news-view-block-1 .view-content .views-row:last-child {
+    .block-views-blocknews-view-block-1 .view-content .views-row:last-child {
       margin-bottom: 0; }
-  #block-metasonic-views-block-news-view-block-1 h2 {
+  .block-views-blocknews-view-block-1 h2 {
     font-size: 1.8vw;
     font-family: -apple-system, system-ui, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
     color: #545455;
     margin-bottom: 0.7vw;
     font-weight: normal; }
-  #block-metasonic-views-block-news-view-block-1 .views-field-field-news-type-img {
+  .block-views-blocknews-view-block-1 .views-field-field-news-type-img {
     float: left;
     width: 4.7vw;
     margin-top: 0.1vw; }
-  #block-metasonic-views-block-news-view-block-1 .views-field-field-news-type-description {
+  .block-views-blocknews-view-block-1 .views-field-field-news-type-description {
     text-transform: none;
     font-size: 1vw;
     color: #aaa; }
-  #block-metasonic-views-block-news-view-block-1 .views-field-title {
+  .block-views-blocknews-view-block-1 .views-field-title {
     margin-left: 6vw; }
-    #block-metasonic-views-block-news-view-block-1 .views-field-title a {
+    .block-views-blocknews-view-block-1 .views-field-title a {
       text-decoration: none;
       text-transform: uppercase;
       font-size: 1.01vw;
       color: #9a9a9a; }
-  #block-metasonic-views-block-news-view-block-1 .views-field-field-news-type-description {
+  .block-views-blocknews-view-block-1 .views-field-field-news-type-description {
     margin-left: 6vw;
     margin-top: 0.5vw; }
 
@@ -769,29 +768,29 @@ header {
   float: left;
   margin-right: 1%; }
 
-#block-metasonic-main-menu {
+.menu--main {
   width: 100%;
   margin-top: 7%; }
-  #block-metasonic-main-menu .menu {
+  .menu--main .menu {
     height: 2vw;
     display: flex;
     background-color: #000;
     margin: 0; }
-    #block-metasonic-main-menu .menu li {
+    .menu--main .menu li {
       text-align: center;
       flex-basis: auto;
       flex-grow: 1;
       display: inline-block; }
-      #block-metasonic-main-menu .menu li a {
+      .menu--main .menu li a {
         font-size: 0.9em;
         text-decoration: none;
         color: #fff;
         font-family: 'Open Sans', sans-serif; }
 
-#block-metasonic-search {
+.block-search {
   line-height: 4vw;
   float: right; }
-  #block-metasonic-search #edit-keys {
+  .block-search .form-search {
     font-size: 12px;
     border-radius: 3px 0px 0px 3px;
     border: 1px solid #969696;
@@ -799,12 +798,12 @@ header {
     background-color: #fff;
     width: 5vw;
     margin-right: -10px; }
-  #block-metasonic-search #edit-keys:focus {
+  .block-search .form-search:focus {
     background: #E8E8E8;
     color: #333;
     outline: 0;
     outline-offset: 0; }
-  #block-metasonic-search #edit-submit {
+  .block-search .form-submit {
     margin-top: 1px;
     border-radius: 0px 3px 3px 0px;
     border: 1px solid #969696;
@@ -813,35 +812,35 @@ header {
     background-color: #969696;
     width: 1.5vw; }
 
-#block-metasonic-languagedropdownswitcher {
+.block-language-dropdown-blocklanguage-interface {
   line-height: 4vw;
   float: right;
   margin-right: 1.5vw; }
-  #block-metasonic-languagedropdownswitcher select {
+  .block-language-dropdown-blocklanguage-interface select {
     background: linear-gradient(to right, #fff 80%, #969696 20%); }
-  #block-metasonic-languagedropdownswitcher .lang-dropdown-select-element {
+  .block-language-dropdown-blocklanguage-interface .lang-dropdown-select-element {
     width: 100px;
     font-size: 12px;
     border-radius: 3px 3px 3px 3px;
     border: 1px solid #969696;
     padding: 2.7px;
     background-color: #fff; }
-  #block-metasonic-languagedropdownswitcher .lang-dropdown-select-element:focus {
+  .block-language-dropdown-blocklanguage-interface .lang-dropdown-select-element:focus {
     background: #E8E8E8;
     color: #333;
     outline: 0;
     outline-offset: 0; }
 
-#block-metasonic-useraccountmenu {
+.menu--account {
   float: right;
   line-height: 3.9vw;
   margin-top: 2px;
   margin-right: 1.5vw; }
-  #block-metasonic-useraccountmenu .menu {
+  .menu--account .menu {
     margin: 0; }
-    #block-metasonic-useraccountmenu .menu .menu-item {
+    .menu--account .menu .menu-item {
       display: inline; }
-      #block-metasonic-useraccountmenu .menu .menu-item a {
+      .menu--account .menu .menu-item a {
         word-spacing: -4px;
         text-decoration: none;
         text-transform: uppercase;
@@ -903,7 +902,6 @@ header {
         text-indent: -9999px;
         color: #dad;
         width: 26px;
-        /* ширина/высота больше чем размер иконки */
         height: 26px;
         float: left;
         background-image: url(../assets/sprite.png); }
@@ -920,41 +918,47 @@ header {
     .menu--social .menu li:nth-child(6) a {
       background-position: -170px 0px; }
 
-#block-metasonic-metasonicag h2 {
-  color: #fff;
-  font-size: .7em; }
+#block-metasonic-metasonicag {
+  grid-column: 4;
+  grid-row: 2;
+  padding-bottom: 2vh;
+  border-bottom: 1px solid #b2b2b2; }
+  #block-metasonic-metasonicag h2 {
+    color: #fff;
+    font-size: .7em; }
+  #block-metasonic-metasonicag p {
+    color: #b2b2b2;
+    margin-top: 0;
+    font-size: .7em;
+    margin: .1vw; }
 
-#block-metasonic-metasonicag p {
-  color: #b2b2b2;
-  margin-top: 0;
-  font-size: .7em;
-  margin: .1vw; }
-
-#block-metasonic-customforminblock h2 {
-  color: #fff;
-  font-size: .7em; }
-
-#block-metasonic-customforminblock .form-item-your-name {
-  float: left;
-  margin-top: -5px;
-  margin-bottom: 0; }
-  #block-metasonic-customforminblock .form-item-your-name input {
-    padding: 5px 0 5px 10px;
+.block-custom-form-in-block {
+  grid-column: 4;
+  grid-row: 3;
+  padding-top: 1vh; }
+  .block-custom-form-in-block h2 {
+    color: #fff;
+    font-size: .7em; }
+  .block-custom-form-in-block .form-item-your-name {
+    float: left;
+    margin-top: -5px;
+    margin-bottom: 0; }
+    .block-custom-form-in-block .form-item-your-name input {
+      padding: 5px 0 5px 10px;
+      border-radius: 5px;
+      width: 15vw;
+      font-size: 0.7em; }
+  .block-custom-form-in-block .form-actions input {
+    margin-left: 0.5vw;
+    height: 2.5em;
+    width: 6.5vw;
+    margin-top: -5px;
+    background-color: #343434;
+    color: #fff;
+    font-size: 0.7em;
+    line-height: 1.25em;
     border-radius: 5px;
-    width: 15vw;
-    font-size: 0.7em; }
-
-#block-metasonic-customforminblock #edit-actions--2 input {
-  margin-left: 0.5vw;
-  height: 2.5em;
-  width: 6.5vw;
-  margin-top: -5px;
-  background-color: #343434;
-  color: #fff;
-  font-size: 0.7em;
-  line-height: 1.25em;
-  border-radius: 5px;
-  border: 1px solid #aaa6; }
+    border: 1px solid #aaa6; }
 
 .menu--produkte-services {
   grid-column: 1; }
@@ -989,44 +993,33 @@ header {
   grid-row: 5;
   margin-top: -6.5vh; }
 
-#block-metasonic-partner {
+.menu--partner {
   grid-column: 3;
   grid-row: 2;
   border-right: 1px solid #b2b2b2;
   margin-right: 1vw; }
 
-#block-metasonic-kunden {
+.menu--kunden {
   grid-column: 3;
   grid-row: 3;
   margin-top: -8vh;
   border-right: 1px solid #b2b2b2;
   margin-right: 1vw; }
 
-#block-metasonic-unternehmen {
+.menu--unternehmen {
   grid-column: 3;
   grid-row: 4;
   margin-top: -8vh;
   border-right: 1px solid #b2b2b2;
   margin-right: 1vw; }
 
-#block-metasonic-unternehmen1 {
+.menu--unternehmen-1 {
   grid-column: 3;
   grid-row: 5;
   margin-top: 1vh;
   margin-right: 1vw; }
-  #block-metasonic-unternehmen1 menu {
+  .menu--unternehmen-1 menu {
     border-right: 1px solid #b2b2b2; }
-
-#block-metasonic-metasonicag {
-  grid-column: 4;
-  grid-row: 2;
-  padding-bottom: 2vh;
-  border-bottom: 1px solid #b2b2b2; }
-
-#block-metasonic-customforminblock {
-  grid-column: 4;
-  grid-row: 3;
-  padding-top: 1vh; }
 
 /* Components */
 @font-face {
