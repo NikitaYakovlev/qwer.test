@@ -506,12 +506,12 @@ footer {
   padding-right: 1000px;
   padding-left: 1000px; }
 
-#block-views-block-slider-front-page-block-1 .views-slideshow-controls-bottom {
+#block-metasonic-views-block-slider-front-page-block-1 .views-slideshow-controls-bottom {
   position: absolute;
   margin-left: 20vw;
   margin-top: -26em;
   z-index: 10; }
-  #block-views-block-slider-front-page-block-1 .views-slideshow-controls-bottom .views-slideshow-pager-bullets li {
+  #block-metasonic-views-block-slider-front-page-block-1 .views-slideshow-controls-bottom .views-slideshow-pager-bullets li {
     text-indent: -9999px;
     cursor: pointer;
     display: inline-block;
@@ -520,7 +520,7 @@ footer {
     background: #fff7;
     margin: 0.2em;
     line-height: 14px; }
-  #block-views-block-slider-front-page-block-1 .views-slideshow-controls-bottom .views-slideshow-pager-bullets li.active {
+  #block-metasonic-views-block-slider-front-page-block-1 .views-slideshow-controls-bottom .views-slideshow-pager-bullets li.active {
     background: #fffd; }
 
 #views_slideshow_cycle_div_slider_front_page-block_1_2 .views-field-field-text p, #views_slideshow_cycle_div_slider_front_page-block_1_1 .views-field-field-text p, #views_slideshow_cycle_div_slider_front_page-block_1_0 .views-field-field-text p {
@@ -549,7 +549,7 @@ footer {
   .region-content .messages--status {
     position: absolute; }
 
-#block-menr a {
+#block-metasonic-menr a {
   text-decoration: none;
   position: absolute;
   margin-top: -20em;
@@ -559,36 +559,36 @@ footer {
   font-size: 1.3em;
   color: #fffd; }
 
-.view-tri-bloka {
+#block-metasonic-views-block-tri-bloka-block-1 {
   position: relative;
   margin-top: -13em;
   text-transform: uppercase;
   z-index: 20;
   xt-transform: uppercase; }
-  .view-tri-bloka .views-col {
+  #block-metasonic-views-block-tri-bloka-block-1 .views-col {
     width: 32.1%;
     margin-right: 1.23333%;
     background-color: #fff; }
-  .view-tri-bloka img {
+  #block-metasonic-views-block-tri-bloka-block-1 img {
     float: left;
     margin-left: 3vw;
     margin-top: 3vw;
     width: 4.5vw; }
-  .view-tri-bloka .views-field-title {
+  #block-metasonic-views-block-tri-bloka-block-1 .views-field-title {
     background-color: #99999b;
     height: 5.5vw; }
-    .view-tri-bloka .views-field-title a {
+    #block-metasonic-views-block-tri-bloka-block-1 .views-field-title a {
       line-height: 5.5vw;
       padding-left: 2.5vw;
       color: white;
       font-size: 2.5vw;
       text-decoration: none; }
-  .view-tri-bloka .views-field-field-short-desription-block-ctr-1 {
+  #block-metasonic-views-block-tri-bloka-block-1 .views-field-field-short-desription-block-ctr-1 {
     margin-top: 3.5vw;
     margin-left: 8.5vw;
     font-size: 1.2vw;
     color: #717171; }
-  .view-tri-bloka .views-field-field-block-in-center-descript {
+  #block-metasonic-views-block-tri-bloka-block-1 .views-field-field-block-in-center-descript {
     overflow: hidden;
     height: 5vw;
     width: 14.5vw;
@@ -596,7 +596,7 @@ footer {
     color: #b7b9bd;
     text-transform: none;
     font-size: 1.1vw; }
-  .view-tri-bloka .views-field-field-block-in-center-link a {
+  #block-metasonic-views-block-tri-bloka-block-1 .views-field-field-block-in-center-link a {
     font-size: 0.9vw;
     color: #717171;
     text-decoration: none;
@@ -604,29 +604,29 @@ footer {
     margin-left: 3vw;
     margin-bottom: 2vw; }
 
-#block-uberuns {
+#block-metasonic-uberuns {
   margin-top: 2.5vw;
   width: 33vw;
   text-transform: uppercase;
   float: left;
   height: 21vw; }
-  #block-uberuns h2 {
+  #block-metasonic-uberuns h2 {
     display: none; }
-  #block-uberuns .field--name-field-center-title-new {
+  #block-metasonic-uberuns .field--name-field-center-title-new {
     font-size: 1.8vw;
     font-family: -apple-system, system-ui, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
     color: #545455;
     margin-bottom: 0.7vw; }
-  #block-uberuns .field--name-field-centre-short-desription {
+  #block-metasonic-uberuns .field--name-field-centre-short-desription {
     margin-bottom: 1vw;
     color: #9a9a9a;
     font-size: 1.2vw; }
-  #block-uberuns .field--name-field-centre-desription {
+  #block-metasonic-uberuns .field--name-field-centre-desription {
     text-transform: none;
     font-size: 1vw;
     padding-bottom: 2.2vw;
     color: #aaa; }
-  #block-uberuns .field--name-field-center-link a {
+  #block-metasonic-uberuns .field--name-field-center-link a {
     font-size: 0.9vw;
     text-decoration: none;
     background-color: #fcac1e;
@@ -634,89 +634,89 @@ footer {
     border-radius: 8px;
     padding: 0.8vw 1.2vw 0.8vw 1.2vw; }
 
-#block-views-block-news-view-block-1 {
+#block-metasonic-views-block-news-view-block-1 {
   margin-left: 34vw;
   margin-top: 2.5vw;
   width: 25vw;
   height: 21vw; }
-  #block-views-block-news-view-block-1 .view-content {
+  #block-metasonic-views-block-news-view-block-1 .view-content {
     display: inline-grid; }
-    #block-views-block-news-view-block-1 .view-content .views-row {
+    #block-metasonic-views-block-news-view-block-1 .view-content .views-row {
       margin-bottom: 1.8vw; }
-    #block-views-block-news-view-block-1 .view-content .views-row:last-child {
+    #block-metasonic-views-block-news-view-block-1 .view-content .views-row:last-child {
       margin-bottom: 0; }
-  #block-views-block-news-view-block-1 h2 {
+  #block-metasonic-views-block-news-view-block-1 h2 {
     font-size: 1.8vw;
     font-family: -apple-system, system-ui, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
     color: #545455;
     margin-bottom: 0.7vw;
     font-weight: normal; }
-  #block-views-block-news-view-block-1 .views-field-field-news-type-img {
+  #block-metasonic-views-block-news-view-block-1 .views-field-field-news-type-img {
     float: left;
     width: 4.7vw;
     margin-top: 0.1vw; }
-  #block-views-block-news-view-block-1 .views-field-field-news-type-description {
+  #block-metasonic-views-block-news-view-block-1 .views-field-field-news-type-description {
     text-transform: none;
     font-size: 1vw;
     color: #aaa; }
-  #block-views-block-news-view-block-1 .views-field-title {
+  #block-metasonic-views-block-news-view-block-1 .views-field-title {
     margin-left: 6vw; }
-    #block-views-block-news-view-block-1 .views-field-title a {
+    #block-metasonic-views-block-news-view-block-1 .views-field-title a {
       text-decoration: none;
       text-transform: uppercase;
       font-size: 1.01vw;
       color: #9a9a9a; }
-  #block-views-block-news-view-block-1 .views-field-field-news-type-description {
+  #block-metasonic-views-block-news-view-block-1 .views-field-field-news-type-description {
     margin-left: 6vw;
     margin-top: 0.5vw; }
 
-#block-ournextwebinar {
+#block-metasonic-ournextwebinar {
   margin-top: 2.5vw;
   width: 22vw;
   text-transform: uppercase;
   float: left; }
-  #block-ournextwebinar h2 {
+  #block-metasonic-ournextwebinar h2 {
     font-size: 1.8vw;
     font-family: -apple-system, system-ui, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
     color: #545455;
     margin-bottom: 0.7vw;
     font-weight: normal; }
-  #block-ournextwebinar .field--name-field-date-webinar {
+  #block-metasonic-ournextwebinar .field--name-field-date-webinar {
     float: left; }
-  #block-ournextwebinar .field--name-field-webinar-description {
+  #block-metasonic-ournextwebinar .field--name-field-webinar-description {
     margin-left: 4vw;
     text-transform: none;
     font-size: 1vw;
     padding-bottom: 2.2vw;
     color: #aaa; }
-  #block-ournextwebinar .field--name-field-date-webinar {
+  #block-metasonic-ournextwebinar .field--name-field-date-webinar {
     color: #545455;
     font-size: 1.4vw;
     margin-top: 0.4vw;
     font-weight: 600;
     line-height: 2vw; }
 
-#block-quote {
+#block-metasonic-quote {
   margin-left: 24vw;
   margin-top: 2.5vw;
   width: 35vw;
   height: auto;
   background-color: #fff;
   display: table; }
-  #block-quote .field--name-field-quotes {
+  #block-metasonic-quote .field--name-field-quotes {
     float: left;
     margin-left: 1vw;
     margin-top: 0.5vw; }
-    #block-quote .field--name-field-quotes img {
+    #block-metasonic-quote .field--name-field-quotes img {
       width: 3vw; }
-  #block-quote .field--name-field-text-quote {
+  #block-metasonic-quote .field--name-field-text-quote {
     margin-left: 6vw;
     padding-top: 2vw;
     padding-right: 1vw;
     text-transform: none;
     font-size: 1vw;
     color: #aaa; }
-  #block-quote .field--name-field-about-autor-quote- {
+  #block-metasonic-quote .field--name-field-about-autor-quote- {
     margin-left: 6vw;
     padding-top: 0.8vw;
     padding-right: 1vw;
@@ -724,7 +724,7 @@ footer {
     font-size: 0.9vw;
     color: #545455;
     float: left; }
-  #block-quote .field--name-field-quote-image {
+  #block-metasonic-quote .field--name-field-quote-image {
     float: right;
     width: 13vw;
     margin-right: 1vw;
@@ -763,35 +763,35 @@ header {
   margin-left: 20vw;
   display: flow-root; }
 
-#block-logotip {
+#block-metasonic-logotip {
   line-height: 6vw;
   width: 10%;
   float: left;
   margin-right: 1%; }
 
-#block-custclassy-main-menu {
+#block-metasonic-main-menu {
   width: 100%;
   margin-top: 7%; }
-  #block-custclassy-main-menu .menu {
+  #block-metasonic-main-menu .menu {
     height: 2vw;
     display: flex;
     background-color: #000;
     margin: 0; }
-    #block-custclassy-main-menu .menu li {
+    #block-metasonic-main-menu .menu li {
       text-align: center;
       flex-basis: auto;
       flex-grow: 1;
       display: inline-block; }
-      #block-custclassy-main-menu .menu li a {
+      #block-metasonic-main-menu .menu li a {
         font-size: 0.9em;
         text-decoration: none;
         color: #fff;
         font-family: 'Open Sans', sans-serif; }
 
-#block-custclassy-search {
+#block-metasonic-search {
   line-height: 4vw;
   float: right; }
-  #block-custclassy-search #edit-keys {
+  #block-metasonic-search #edit-keys {
     font-size: 12px;
     border-radius: 3px 0px 0px 3px;
     border: 1px solid #969696;
@@ -799,12 +799,12 @@ header {
     background-color: #fff;
     width: 5vw;
     margin-right: -10px; }
-  #block-custclassy-search #edit-keys:focus {
+  #block-metasonic-search #edit-keys:focus {
     background: #E8E8E8;
     color: #333;
     outline: 0;
     outline-offset: 0; }
-  #block-custclassy-search #edit-submit {
+  #block-metasonic-search #edit-submit {
     margin-top: 1px;
     border-radius: 0px 3px 3px 0px;
     border: 1px solid #969696;
@@ -813,35 +813,35 @@ header {
     background-color: #969696;
     width: 1.5vw; }
 
-#block-languagedropdownswitcher {
+#block-metasonic-languagedropdownswitcher {
   line-height: 4vw;
   float: right;
   margin-right: 1.5vw; }
-  #block-languagedropdownswitcher select {
+  #block-metasonic-languagedropdownswitcher select {
     background: linear-gradient(to right, #fff 80%, #969696 20%); }
-  #block-languagedropdownswitcher .lang-dropdown-select-element {
+  #block-metasonic-languagedropdownswitcher .lang-dropdown-select-element {
     width: 100px;
     font-size: 12px;
     border-radius: 3px 3px 3px 3px;
     border: 1px solid #969696;
     padding: 2.7px;
     background-color: #fff; }
-  #block-languagedropdownswitcher .lang-dropdown-select-element:focus {
+  #block-metasonic-languagedropdownswitcher .lang-dropdown-select-element:focus {
     background: #E8E8E8;
     color: #333;
     outline: 0;
     outline-offset: 0; }
 
-#block-useraccountmenu {
+#block-metasonic-useraccountmenu {
   float: right;
   line-height: 3.9vw;
   margin-top: 2px;
   margin-right: 1.5vw; }
-  #block-useraccountmenu .menu {
+  #block-metasonic-useraccountmenu .menu {
     margin: 0; }
-    #block-useraccountmenu .menu .menu-item {
+    #block-metasonic-useraccountmenu .menu .menu-item {
       display: inline; }
-      #block-useraccountmenu .menu .menu-item a {
+      #block-metasonic-useraccountmenu .menu .menu-item a {
         word-spacing: -4px;
         text-decoration: none;
         text-transform: uppercase;
@@ -865,21 +865,21 @@ header {
         color: #b2b2b2;
         text-decoration: none; }
 
-#block-aboutusmenu {
+#block-metasonic-aboutusmenu {
   column-span: all;
   line-height: 3.9vw;
   margin-top: 2px;
   margin-right: 1.5vw;
   font-size: 0.8em;
   grid-column: 1 / 4; }
-  #block-aboutusmenu .menu {
+  #block-metasonic-aboutusmenu .menu {
     margin: 0; }
-    #block-aboutusmenu .menu .menu-item {
+    #block-metasonic-aboutusmenu .menu .menu-item {
       display: inline;
       padding: 0 1.5em .2em 1.5em;
       list-style-image: none;
       background: transparent url(../assets/marker.jpg) no-repeat 0px 0px; }
-      #block-aboutusmenu .menu .menu-item a {
+      #block-metasonic-aboutusmenu .menu .menu-item a {
         font-size: 1em;
         text-decoration: none;
         text-transform: uppercase;
@@ -920,31 +920,31 @@ header {
     .menu--social .menu li:nth-child(6) a {
       background-position: -170px 0px; }
 
-#block-metasonicag h2 {
+#block-metasonic-metasonicag h2 {
   color: #fff;
   font-size: .7em; }
 
-#block-metasonicag p {
+#block-metasonic-metasonicag p {
   color: #b2b2b2;
   margin-top: 0;
   font-size: .7em;
   margin: .1vw; }
 
-#block-customforminblock h2 {
+#block-metasonic-customforminblock h2 {
   color: #fff;
   font-size: .7em; }
 
-#block-customforminblock .form-item-your-name {
+#block-metasonic-customforminblock .form-item-your-name {
   float: left;
   margin-top: -5px;
   margin-bottom: 0; }
-  #block-customforminblock .form-item-your-name input {
+  #block-metasonic-customforminblock .form-item-your-name input {
     padding: 5px 0 5px 10px;
     border-radius: 5px;
     width: 15vw;
     font-size: 0.7em; }
 
-#block-customforminblock #edit-actions--2 input {
+#block-metasonic-customforminblock #edit-actions--2 input {
   margin-left: 0.5vw;
   height: 2.5em;
   width: 6.5vw;
@@ -989,41 +989,41 @@ header {
   grid-row: 5;
   margin-top: -6.5vh; }
 
-#block-partner {
+#block-metasonic-partner {
   grid-column: 3;
   grid-row: 2;
   border-right: 1px solid #b2b2b2;
   margin-right: 1vw; }
 
-#block-kunden {
+#block-metasonic-kunden {
   grid-column: 3;
   grid-row: 3;
   margin-top: -8vh;
   border-right: 1px solid #b2b2b2;
   margin-right: 1vw; }
 
-#block-unternehmen {
+#block-metasonic-unternehmen {
   grid-column: 3;
   grid-row: 4;
   margin-top: -8vh;
   border-right: 1px solid #b2b2b2;
   margin-right: 1vw; }
 
-#block-unternehmen1 {
+#block-metasonic-unternehmen1 {
   grid-column: 3;
   grid-row: 5;
   margin-top: 1vh;
   margin-right: 1vw; }
-  #block-unternehmen1 menu {
+  #block-metasonic-unternehmen1 menu {
     border-right: 1px solid #b2b2b2; }
 
-#block-metasonicag {
+#block-metasonic-metasonicag {
   grid-column: 4;
   grid-row: 2;
   padding-bottom: 2vh;
   border-bottom: 1px solid #b2b2b2; }
 
-#block-customforminblock {
+#block-metasonic-customforminblock {
   grid-column: 4;
   grid-row: 3;
   padding-top: 1vh; }

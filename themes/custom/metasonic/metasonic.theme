@@ -1,7 +1,7 @@
 
 <?php
 
-function custclassy_form_search_block_form_alter(&$form, &$form_state, $form_id) {
+function metasonic_form_search_block_form_alter(&$form, &$form_state, $form_id) {
     $form['search_block_form']['#title'] = '';
     $form['search_block_form']['#size'] = 25;
     $form['search_block_form']['#value'] = 'Search...';

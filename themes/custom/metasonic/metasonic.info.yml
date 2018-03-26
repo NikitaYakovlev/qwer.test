@@ -1,4 +1,4 @@
-name: 'Custom Classy'
+name: 'Metasonic'
 type: theme
 core: 8.x
 description: 'Кастомная тема на основе Classy(моя)'
@@ -8,5 +8,5 @@ base theme: classy # указываем тему classy в качестве ба
 # заданных в файле name_theme.libraries.yml.
 # А так же подключение CSS для собственных стилей темы.
 libraries:
-  - custclassy/helloworld
+  - metasonic/helloworld
 
