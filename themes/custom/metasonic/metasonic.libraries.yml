@@ -1,4 +1,0 @@
-helloworld:
-  css:
-    theme:
-      dist/css/main.css: {}
