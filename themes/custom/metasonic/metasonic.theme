@@ -1,11 +1,9 @@
-
 <?php
-
 
 /**
  * Implements metasonic_form_search_block_form_alter().
  *
- * Change placeholder search block
+ * The search block changes the placeholder
  */
 function metasonic_form_search_block_form_alter(&$form, &$form_state, $form_id) {
   $form['search_block_form']['#title'] = '';
@@ -13,7 +11,7 @@ function metasonic_form_search_block_form_alter(&$form, &$form_state, $form_id) 
   $form['search_block_form']['#value'] = t('Search...');
   $form['search_block_form']['#attributes']['onblur'] = "if (this.value == '') {this.value = 'Search...';}";
   $form['search_block_form']['#attributes']['onfocus'] = "if (this.value == 'Search...') {this.value = '';}";
-  // remove the text of the button, there will be only a background image.
+  // The text of the button is deleted. There will only be a background image.
   $form['actions']['submit']['#value'] = '';
   $form['keys']['#attributes']['placeholder'] = t('Search...');
 }
